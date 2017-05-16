@@ -1,0 +1,29 @@
+body div{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#cav{
+    border:2px solid black;
+    border-radius: 4px;
+    box-shadow: 0px 0px 10px black;
+    -webkit-box-shadow: 0px 0px 10px black;
+    -moz-box-shadow: 0px 0px 10px black;
+    display: block;
+    margin:0 auto;
+}
+#bk{
+    margin:10px auto;
+    width:400px;
+    height: 36px;
+}
+.bk{
+    text-align: center;
+    width:20px;
+    height:20px;
+    margin:12px;
+    display: inline-block;
+    border:1px dotted gray;
+}
+
